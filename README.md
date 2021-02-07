@@ -29,7 +29,6 @@ const malte = {
         databases: ["MySql", "sqlite"],
         misc: ["Firebase", "Socket.IO", "Discord.js"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
