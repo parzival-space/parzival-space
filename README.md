@@ -1,6 +1,6 @@
 <h2>I'm Malte Linke! <img src="https://visitor-badge.laobi.icu/badge?page_id=github-profile.dev-parzival.views"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Hi, I'm Malte Linke, a passionate self-taught Full Stack developer from Germany.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Hi, I'm Malte Linke, a passionate developer from Germany.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 👇 Hit in your console or terminal to connect with me.
