@@ -16,18 +16,18 @@ npx malte
 const malte = {
     pronouns: "He" | "Him",
     alias: "Parzival",
-    code: ["Javascript", "Typescript", "C#", "C"],
+    code: ["Javascript", "Typescript", "C#", "C", "C++"],
     askMeAbout: ["web dev", "tech"],
     technologies: {
         frontEnd: {
-            js: ["Vue", "EJS"],
+            js: ["EJS"],
             css: ["bootstrap", "sass"]
         },
         backEnd: {
-            js: ["node", "express", "deno"]
+            js: ["node", "express"]
         },
         databases: ["MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "Discord.js"]
+        misc: ["Socket.IO", "Discord.js", "PlatformIO"]
     },
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
