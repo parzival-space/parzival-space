@@ -1,36 +1,24 @@
-<h2>I'm Malte Linke! <img src="https://visitor-badge.laobi.icu/badge?page_id=github-profile.dev-parzival.views"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Hi, I'm Malte Linke, a passionate developer from Germany.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
-
-👇 Hit in your console or terminal to connect with me.
-
-```bash
-npx malte
-```
-👆 Hit in your console or terminal to connect with me.
-
-<h3 align="center">A little more about me...</h3>
-
-```javascript
-const malte = {
-    pronouns: "He" | "Him",
-    alias: "Parzival",
-    code: ["Javascript", "Typescript", "C#", "C", "C++"],
-    askMeAbout: ["web dev", "tech"],
-    technologies: {
-        frontEnd: {
-            js: ["EJS"],
-            css: ["bootstrap", "sass"]
-        },
-        backEnd: {
-            js: ["node", "express"]
-        },
-        databases: ["MySql", "sqlite"],
-        misc: ["Socket.IO", "Discord.js", "PlatformIO"]
-    },
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
+```zsh
+> neofetch
 ```
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=malte-linke&border=DD272700)](https://git.io/streak-stats)
+<img align="left" src="https://i.imgur.com/NHqdi1D.png" alt="Avatar" width="320" /> 
+
+```csharp
+malte-linke@github
+-------------------------
+OS: Ubuntu 20.04 LTS x86_64
+Shell: bash 5.0.17
+Pronouns: He/Him
+Location: Germany
+Languages: JavaScript, TypeScript,
+           HTML, CSS, C, C#
+Learning: Node.js, Express, MySQL,
+          SQLite, Three.js, CPP
+Hobbies: Gaming, Music
+Discord: Parzival#0002
+```
+<p align="left">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="#b8edf1" src="https://via.placeholder.com/15/b8edf1/000000?text=+" width="25" height="20" /><img alt="#02fafc" src="https://via.placeholder.com/15/02fafc/000000?text=+" width="25" height="20" /><img alt="#2090a0" src="https://via.placeholder.com/15/2090a0/000000?text=+" width="25" height="20" /><img alt="#0c6281" src="https://via.placeholder.com/15/0c6281/000000?text=+" width="25" height="20" /><img alt="#03f99f" src="https://via.placeholder.com/15/03f99f/000000?text=+" width="25" height="20" />
+</p>
