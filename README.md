@@ -32,3 +32,5 @@ const malte = {
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=malte-linke&border=DD272700)](https://git.io/streak-stats)
