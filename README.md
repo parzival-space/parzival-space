@@ -28,5 +28,5 @@ Discord: Parzival#0002
 </br>
 
 <p align="center">
-           <img src="https://github-readme-streak-stats.herokuapp.com?user=malte-linke&theme=dark&hide_border=true&background=00000000" align="center" style="width: 100%" />
+           <img src="https://github-readme-streak-stats.herokuapp.com?user=malte-linke&theme=dark&hide_border=true&background=00000000&ring=02FAFC&fire=02FAFC&currStreakLabel=02FAFC" align="center" style="width: 100%" />
 </p>
