@@ -25,34 +25,34 @@ Discord: Parzival#0002
   <img
     alt="#b8edf1"
     src="https://via.placeholder.com/15/b8edf1/000000?text=+"
-    width="35"
-    height="30"
+    width="30"
+    height="25"
   /><img
     alt="#02fafc"
     src="https://via.placeholder.com/15/02fafc/000000?text=+"
-    width="35"
-    height="30"
+    width="30"
+    height="25"
   /><img
     alt="#2090a0"
     src="https://via.placeholder.com/15/2090a0/000000?text=+"
-    width="35"
-    height="30"
+    width="30"
+    height="25"
   /><img
     alt="#0c6281"
     src="https://via.placeholder.com/15/0c6281/000000?text=+"
-    width="35"
-    height="30"
+    width="30"
+    height="25"
   /><img
     alt="#03f99f"
     src="https://via.placeholder.com/15/03f99f/000000?text=+"
-    width="35"
-    height="30"
+    width="30"
+    height="25"
   />
   <a href="https://www.buymeacoffee.com/maltelinke" target="_blank"
     ><img
-      src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+      src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"
       alt="Buy Me A Coffee"
-      height="30"
+      height="25"
       style="height: 25px !important"
   /></a>
 </p>
