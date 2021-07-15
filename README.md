@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<a href="#">
+<a href="https://malte-linke.com">
   <img align="left" src="https://i.imgur.com/uO5iFdj.png" alt="Avatar" width="290"/>
 </a>
 
@@ -22,34 +22,32 @@ Discord: Parzival#0002
 ```
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <a href="#">
-    <img
-      alt="#b8edf1"
-      src="https://via.placeholder.com/15/b8edf1/000000?text=+"
-      width="35"
-      height="30"
-    /><img
-      alt="#02fafc"
-      src="https://via.placeholder.com/15/02fafc/000000?text=+"
-      width="35"
-      height="30"
-    /><img
-      alt="#2090a0"
-      src="https://via.placeholder.com/15/2090a0/000000?text=+"
-      width="35"
-      height="30"
-    /><img
-      alt="#0c6281"
-      src="https://via.placeholder.com/15/0c6281/000000?text=+"
-      width="35"
-      height="30"
-    /><img
-      alt="#03f99f"
-      src="https://via.placeholder.com/15/03f99f/000000?text=+"
-      width="35"
-      height="30"
-    />
-  </a>
+  <img
+    alt="#b8edf1"
+    src="https://via.placeholder.com/15/b8edf1/000000?text=+"
+    width="35"
+    height="30"
+  /><img
+    alt="#02fafc"
+    src="https://via.placeholder.com/15/02fafc/000000?text=+"
+    width="35"
+    height="30"
+  /><img
+    alt="#2090a0"
+    src="https://via.placeholder.com/15/2090a0/000000?text=+"
+    width="35"
+    height="30"
+  /><img
+    alt="#0c6281"
+    src="https://via.placeholder.com/15/0c6281/000000?text=+"
+    width="35"
+    height="30"
+  /><img
+    alt="#03f99f"
+    src="https://via.placeholder.com/15/03f99f/000000?text=+"
+    width="35"
+    height="30"
+  />
   <a href="https://www.buymeacoffee.com/maltelinke" target="_blank"
     ><img
       src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
