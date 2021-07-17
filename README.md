@@ -63,7 +63,7 @@ Discord: Parzival#0002
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
      <img
-      src="https://github-readme-streak-stats.herokuapp.com?user=malte-linke&theme=dark&hide_border=true&background=00000000&ring=02FAFC&fire=02FAFC&currStreakLabel=02FAFC"
+      src="https://github-readme-streak-stats.herokuapp.com?user=malte-linke&theme=dark&hide_border=true&background=00000000&count_private=true&ring=02FAFC&fire=02FAFC&currStreakLabel=02FAFC"
       align="left"
       style="width: 100%"
       width="47%"
