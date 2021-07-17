@@ -68,4 +68,10 @@ Discord: Parzival#0002
       style="width: 100%"
     />
   </a>
+  
+  <br/>
+  
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=malte-linke&hide_border=true&bg_color=00000000&text_color=FFFFFF&title_color=02FAFC"/>
+  </a>
 </p>
