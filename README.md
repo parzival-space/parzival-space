@@ -64,14 +64,18 @@ Discord: Parzival#0002
   <a href="#">
      <img
       src="https://github-readme-streak-stats.herokuapp.com?user=malte-linke&theme=dark&hide_border=true&background=00000000&ring=02FAFC&fire=02FAFC&currStreakLabel=02FAFC"
-      align="center"
+      align="left"
       style="width: 100%"
+      width="47%"
     />
   </a>
   
-  <br/>
   
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=malte-linke&hide_border=true&bg_color=00000000&text_color=FFFFFF&title_color=02FAFC"/>
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=malte-linke&hide_border=true&bg_color=00000000&text_color=FFFFFF&title_color=02FAFC"
+      align="right"
+      width="47%"
+    />
   </a>
 </p>
