@@ -20,6 +20,7 @@ Learning: Node.js, Express, MySQL,
 Hobbies: Gaming, Music
 Discord: Parzival#0002
 ```
+
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <img
