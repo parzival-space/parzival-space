@@ -59,7 +59,6 @@ Discord: Parzival#0002
 </p>
 
 </br>
-</br>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
@@ -79,4 +78,11 @@ Discord: Parzival#0002
       width="47%"
     />
   </a>
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=malte-linke&no-bg=true&no-frame=true&margin-h=15&color=02FAFC&theme=darkhub"
+    align="center"
+  />
 </p>
