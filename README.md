@@ -81,8 +81,10 @@ Discord: Parzival#0002
 </p>
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=malte-linke&no-bg=true&no-frame=true&margin-h=15&color=02FAFC&theme=darkhub"
-    align="center"
-  />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=malte-linke&no-bg=true&no-frame=true&margin-h=15&color=02FAFC&theme=darkhub"
+      align="center"
+    />
+  </a>
 </p>
