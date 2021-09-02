@@ -65,7 +65,6 @@ Discord: Parzival#0002
      <img
       src="https://github-readme-streak-stats.herokuapp.com?user=malte-linke&theme=dark&hide_border=true&background=00000000&count_private=true&ring=02FAFC&fire=02FAFC&currStreakLabel=02FAFC"
       align="left"
-      style="width: 100%"
       width="47%"
     />
   </a>
