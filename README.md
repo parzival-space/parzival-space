@@ -22,7 +22,7 @@ Discord: Parzival#0002
 ```
 
 <p align="center">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <!--&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;-->
   <!--<img
     alt="#b8edf1"
     src="https://via.placeholder.com/15/b8edf1/000000?text=+"
