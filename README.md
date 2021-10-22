@@ -23,7 +23,7 @@ Discord: Parzival#0002
 
 <p align="center">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img
+  <!--<img
     alt="#b8edf1"
     src="https://via.placeholder.com/15/b8edf1/000000?text=+"
     width="30"
@@ -48,7 +48,7 @@ Discord: Parzival#0002
     src="https://via.placeholder.com/15/03f99f/000000?text=+"
     width="30"
     height="25"
-  />
+  />-->
   <a href="https://www.buymeacoffee.com/malte.linke" target="_blank"
     ><img
       src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"
