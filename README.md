@@ -2,9 +2,9 @@
 > neofetch
 ```
 
-<a href="https://malte-linke.com">
+<!--<a href="https://malte-linke.com">
   <img align="left" src="https://i.imgur.com/uO5iFdj.png" alt="Avatar" width="290"/>
-</a>
+</a>-->
 
 ```csharp
 malte-linke@github
@@ -21,7 +21,7 @@ Hobbies: Gaming, Music
 Discord: Parzival#0002
 ```
 
-<p align="left">
+<p align="center">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <img
     alt="#b8edf1"
