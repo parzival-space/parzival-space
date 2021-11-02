@@ -1,10 +1,10 @@
-```zsh
+<!--```zsh
 > neofetch
 ```
 
-<!--<a href="https://malte-linke.com">
+<a href="https://malte-linke.com">
   <img align="left" src="https://i.imgur.com/uO5iFdj.png" alt="Avatar" width="290"/>
-</a>-->
+</a>
 
 ```csharp
 malte-linke@github
@@ -19,7 +19,7 @@ Learning: Node.js, Express, MySQL,
           SQLite, Three.js, CPP
 Hobbies: Gaming, Music
 Discord: Parzival#0002
-```
+```-->
 
 <p align="center">
   <!--&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;-->
