@@ -1,4 +1,4 @@
-<!--```zsh
+```zsh
 > neofetch
 ```
 
@@ -19,7 +19,7 @@ Learning: Node.js, Express, MySQL,
           SQLite, Three.js, CPP
 Hobbies: Gaming, Music
 Discord: Parzival#0002
-```-->
+```
 
 <p align="center">
   <!--&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;-->
