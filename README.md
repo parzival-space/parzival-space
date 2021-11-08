@@ -7,16 +7,16 @@
 </a>
 
 ```csharp
-malte-linke@github
+malte-linke@github.com
 -------------------------
 OS: Ubuntu 20.04 LTS x86_64
 Shell: bash 5.0.17
 Pronouns: He/Him
 Location: Germany
 Languages: JavaScript, TypeScript,
-           HTML, CSS, C, C#
-Learning: Node.js, Express, MySQL,
-          SQLite, Three.js, CPP
+           Node.js, Express,
+           HTML, CSS, C# 
+Learning: Java
 Hobbies: Gaming, Music
 Discord: Parzival#0002
 ```
