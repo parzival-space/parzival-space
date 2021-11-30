@@ -3,7 +3,7 @@
 ```
 
 <a href="https://malte-linke.com">
-  <img align="left" src="https://i.imgur.com/uO5iFdj.png" alt="Avatar" width="290"/>
+  <img align="left" src="https://i.imgur.com/QHFEd2e.png" alt="Avatar" width="290"/>
 </a>
 
 ```csharp
