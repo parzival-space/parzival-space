@@ -18,7 +18,7 @@ Languages: JavaScript, TypeScript,
            HTML, CSS, C# 
 Learning: Java
 Hobbies: Gaming, Music
-Discord: Parzival#0002
+Discord: Parzival#9999
 ```
 
 <p align="center">
