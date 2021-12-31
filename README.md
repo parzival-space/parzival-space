@@ -48,13 +48,6 @@ Discord: Parzival#9999
     width="30"
     height="25"
   />
-  <a href="https://www.buymeacoffee.com/malte.linke" target="_blank"
-    ><img
-      src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"
-      alt="Buy Me A Coffee"
-      height="25"
-      style="height: 25px !important"
-  /></a>
 </p>
 
 </br>
