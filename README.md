@@ -14,8 +14,7 @@ Shell: bash 5.0.17
 Pronouns: He/Him
 Location: Germany
 Languages: JavaScript, TypeScript,
-           Node.js, Express, HTML,
-           CSS, C#, Java 
+           HTML, CSS, C#, Java 
 Learning: Unity, Blender
 Hobbies: Gaming, Music
 Discord: Parzival#9999
