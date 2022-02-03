@@ -79,13 +79,13 @@ Discord: Parzival#9999
 </p>
 
 <p align="center">
-  <a href="https://archlinux.org/">
+  <a href="https://archlinux.org/" target="_blank">
     <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=fff&style=for-the-badge">
   </a>
-  <a href="https://www.microsoft.com/de-de/windows">
+  <a href="https://www.microsoft.com/de-de/windows" target="_blank">
     <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=for-the-badge">
   </a>
-  <a href="https://www.android.com/">
+  <a href="https://www.android.com/" target="_blank">
     <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=for-the-badge">
   </a>
 </p>
