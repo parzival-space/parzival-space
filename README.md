@@ -2,12 +2,12 @@
 > neofetch
 ```
 
-<a href="https://malte-linke.com">
+<a href="https://parzival.space">
   <img align="left" src="https://i.imgur.com/QHFEd2e.png" alt="Avatar" width="290"/>
 </a>
 
 ```csharp
-malte-linke@github.com
+parzival-space@github.com
 -------------------------
 OS: Ubuntu 20.04 LTS x86_64
 Shell: bash 5.0.17
@@ -55,14 +55,14 @@ Discord: Parzival#9999
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
      <img
-      src="https://github-readme-streak-stats.herokuapp.com?user=malte-linke&theme=dark&hide_border=true&background=00000000&count_private=true&ring=02FAFC&fire=02FAFC&currStreakLabel=02FAFC"
+      src="https://github-readme-streak-stats.herokuapp.com?user=parzival-space&theme=dark&hide_border=true&background=00000000&count_private=true&ring=02FAFC&fire=02FAFC&currStreakLabel=02FAFC"
       align="left"
       width="47%"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=malte-linke&hide_title=true&hide_border=true&bg_color=00000000&text_color=FFFFFF&title_color=02FAFC"
+      src="https://github-readme-stats.vercel.app/api?username=parzival-space&hide_title=true&hide_border=true&bg_color=00000000&text_color=FFFFFF&title_color=02FAFC"
       align="right"
       width="47%"
     />
@@ -72,7 +72,7 @@ Discord: Parzival#9999
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img
-      src="https://github-profile-trophy.vercel.app/?username=malte-linke&no-bg=true&no-frame=true&margin-h=15&color=02FAFC&theme=darkhub"
+      src="https://github-profile-trophy.vercel.app/?username=parzival-space&no-bg=true&no-frame=true&margin-h=15&color=02FAFC&theme=darkhub"
       align="center"
     />
   </a>
