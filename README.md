@@ -9,8 +9,9 @@
 ```csharp
 parzival-space@github.com
 -------------------------
-OS: Ubuntu 20.04 LTS x86_64
-Shell: bash 5.0.17
+OS: Arch Linux x86_64
+Host: Shadow
+Shell: /bin/bash
 Pronouns: He/Him
 Location: Germany
 Languages: JavaScript, TypeScript,
