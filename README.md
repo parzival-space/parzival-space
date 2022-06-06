@@ -25,27 +25,27 @@ Discord: Parzival#9999
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <img
     alt=""
-    src="https://via.placeholder.com/15/b8edf1/000000?text=+"
+    src="images/b8edf1.png"
     width="30"
     height="25"
   /><img
     alt=""
-    src="https://via.placeholder.com/15/02fafc/000000?text=+"
+    src="images/02fafc.png"
     width="30"
     height="25"
   /><img
     alt=""
-    src="https://via.placeholder.com/15/2090a0/000000?text=+"
+    src="images/2090a0.png"
     width="30"
     height="25"
   /><img
     alt=""
-    src="https://via.placeholder.com/15/0c6281/000000?text=+"
+    src="images/0c6281.png"
     width="30"
     height="25"
   /><img
     alt=""
-    src="https://via.placeholder.com/15/03f99f/000000?text=+"
+    src="images/03f99f.png"
     width="30"
     height="25"
   />
