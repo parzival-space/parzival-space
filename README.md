@@ -3,7 +3,7 @@
 ```
 
 <a href="https://parzival.space">
-  <img align="left" src="https://i.imgur.com/QHFEd2e.png" alt="Avatar" width="290"/>
+  <img align="left" src="https://github.com/parzival-space.png" alt="Avatar" width="290"/>
 </a>
 
 ```csharp
