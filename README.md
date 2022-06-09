@@ -16,7 +16,7 @@ Pronouns: He/Him
 Location: Germany
 Languages: JavaScript, TypeScript,
            HTML, CSS, C#, Java 
-Learning: Unity, Blender
+Learning: Fusion 360
 Hobbies: Gaming, Music
 Discord: Parzival#9999
 ```
