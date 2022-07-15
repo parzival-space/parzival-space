@@ -17,7 +17,7 @@ Location: Germany
 Languages: JavaScript, TypeScript,
            HTML, CSS, C#, Java 
 Learning: Fusion 360
-Hobbies: Gaming, Music
+Hobbies: Gaming, Music, 3D Printing
 Discord: Parzival#9999
 ```
 
