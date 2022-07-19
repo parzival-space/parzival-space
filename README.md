@@ -10,7 +10,7 @@
 parzival-space@github.com
 -------------------------
 OS: Arch Linux x86_64
-Host: Shadow
+Host: Infinite
 Shell: /bin/bash
 Pronouns: He/Him
 Location: Germany
