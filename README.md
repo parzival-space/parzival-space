@@ -15,9 +15,9 @@ Shell: /bin/bash
 Pronouns: He/Him
 Location: Germany
 Languages: JavaScript, TypeScript,
-           HTML, CSS, C#, Java 
+           HTML, CSS, C#, Java, C++
 Learning: Fusion 360
-Hobbies: Gaming, Music, 3D Printing
+Hobbies: Gaming, Music, 3D Printing, Hardware Hacking
 Discord: Parzival#9999
 ```
 
