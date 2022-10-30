@@ -9,7 +9,7 @@
 ```csharp
 parzival-space@github.com
 -------------------------
-OS: Arch Linux x86_64
+OS: Ubuntu 22.04.1 LTS x86_64
 Host: Infinite
 Shell: /bin/bash
 Pronouns: He/Him
@@ -80,8 +80,8 @@ Discord: Parzival#9999
 </p>
 
 <p align="center">
-  <a href="https://archlinux.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=fff&style=for-the-badge">
+  <a href="https://ubuntu.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
   </a>
   <a href="https://www.microsoft.com/de-de/windows" target="_blank">
     <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=for-the-badge">
