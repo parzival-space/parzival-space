@@ -9,7 +9,7 @@
 ```csharp
 parzival-space@github.com
 -------------------------
-OS: Ubuntu 22.04.1 LTS x86_64
+OS: Ubuntu 22.04 LTS x86_64
 Host: Infinite
 Shell: /bin/bash
 Pronouns: He/Him
