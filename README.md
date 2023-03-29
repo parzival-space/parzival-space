@@ -9,9 +9,9 @@
 ```csharp
 parzival-space@github.com
 -------------------------
-OS: Ubuntu 22.04 LTS x86_64
+OS: Manjaro Linux x86_64
 Host: Infinite
-Shell: /bin/bash
+Shell: /bin/zsh
 Pronouns: He/Him
 Location: Germany
 Languages: JavaScript, TypeScript,
@@ -24,27 +24,27 @@ Discord: Parzival#9999
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <img
     alt=""
-    src="images/b8edf1.png"
+    src="images/2c2d28.png"
     width="30"
     height="25"
   /><img
     alt=""
-    src="images/02fafc.png"
+    src="images/cfd1ca.png"
     width="30"
     height="25"
   /><img
     alt=""
-    src="images/2090a0.png"
+    src="images/afb3ac.png"
     width="30"
     height="25"
   /><img
     alt=""
-    src="images/0c6281.png"
+    src="images/8b8e85.png"
     width="30"
     height="25"
   /><img
     alt=""
-    src="images/03f99f.png"
+    src="images/a1a49c.png"
     width="30"
     height="25"
   />
