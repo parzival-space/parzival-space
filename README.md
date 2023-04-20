@@ -85,9 +85,9 @@ Discord: Parzival#9999
   <a href="https://manjaro.org/" target="_blank">
     <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white">
   </a>
-  <a href="https://www.microsoft.com/de-de/windows" target="_blank">
+  <!--<a href="https://www.microsoft.com/de-de/windows" target="_blank">
     <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=for-the-badge">
-  </a>
+  </a>-->
   <a href="https://www.android.com/" target="_blank">
     <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=for-the-badge">
   </a>
