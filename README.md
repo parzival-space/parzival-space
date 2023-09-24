@@ -69,6 +69,7 @@ Discord: Parzival#9999
   </a>
 </p>
 
+<!--
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img
@@ -77,6 +78,7 @@ Discord: Parzival#9999
     />
   </a>
 </p>
+-->
 
 <p align="center">
   <a href="https://ubuntu.com/" target="_blank">
