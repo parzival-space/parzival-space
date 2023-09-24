@@ -24,27 +24,27 @@ Discord: Parzival#9999
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <img
     alt=""
-    src="images/2fb7fc.png"
+    src="images/19061d.png"
     width="30"
     height="25"
   /><img
     alt=""
-    src="images/06388d.png"
+    src="images/5f08d8.png"
     width="30"
     height="25"
   /><img
     alt=""
-    src="images/1864df.png"
+    src="images/e65bec.png"
     width="30"
     height="25"
   /><img
     alt=""
-    src="images/80659d.png"
+    src="images/ae7367.png"
     width="30"
     height="25"
   /><img
     alt=""
-    src="images/050b48.png"
+    src="images/531385.png"
     width="30"
     height="25"
   />
@@ -55,14 +55,14 @@ Discord: Parzival#9999
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
      <img
-      src="https://github-readme-streak-stats.herokuapp.com?user=parzival-space&theme=dark&hide_border=true&background=00000000&count_private=true&ring=02FAFC&fire=02FAFC&currStreakLabel=02FAFC"
+      src="https://github-readme-streak-stats.herokuapp.com?user=parzival-space&theme=dark&hide_border=true&background=00000000&count_private=true&ring=5f08d8&fire=5f08d8&currStreakLabel=5f08d8"
       align="left"
       width="47%"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=parzival-space&hide_title=true&hide_border=true&bg_color=00000000&text_color=FFFFFF&title_color=02FAFC"
+      src="https://github-readme-stats.vercel.app/api?username=parzival-space&hide_title=true&hide_border=true&bg_color=00000000&text_color=FFFFFF&title_color=5f08d8"
       align="right"
       width="47%"
     />
