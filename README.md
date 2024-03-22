@@ -1,24 +1,27 @@
-```zsh
-> neofetch
-```
-
-<a href="https://parzival.space">
-  <img align="left" src="https://github.com/parzival-space.png" alt="Avatar" width="290"/>
-</a>
-
-```csharp
-parzival-space@github.com
--------------------------
-OS: Debian GNU/Linux x86_64
-Host: github.com
-Shell: bash
-Pronouns: He/Him
-Location: Germany
-Languages: Java, C#, C++, Rust,
-           JavaScript, TypeScript...
-Hobbies: Gaming, Generative AI, 3D Printing, Hardware Hacking
-Discord: @parzival-space
-```
+<p>
+  
+  ```zsh
+  > neofetch
+  ```
+  
+  <a href="https://parzival.space">
+    <img align="left" src="https://github.com/parzival-space.png" alt="Avatar" width="290"/>
+  </a>
+  
+  ```csharp
+  parzival-space@github.com
+  -------------------------
+  OS: Debian GNU/Linux x86_64
+  Host: github.com
+  Shell: bash
+  Pronouns: He/Him
+  Location: Germany
+  Languages: Java, C#, C++, Rust,
+             JavaScript, TypeScript...
+  Hobbies: Gaming, Generative AI, 3D Printing, Hardware Hacking
+  Discord: @parzival-space
+  ```
+</p>
 
 <p align="left">
   <img
@@ -48,8 +51,6 @@ Discord: @parzival-space
     height="25"
   />
 </p>
-
-<br>
 
 <p align="center" width="100%">
   <img
