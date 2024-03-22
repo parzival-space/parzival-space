@@ -21,35 +21,35 @@
   Hobbies: Gaming, Generative AI, 3D Printing, Hardware Hacking
   Discord: @parzival-space
   ```
-</p>
 
-<p align="left">
-  <img
-    alt=""
-    src="images/19061d.png"
-    width="30"
-    height="25"
-  /><img
-    alt=""
-    src="images/5f08d8.png"
-    width="30"
-    height="25"
-  /><img
-    alt=""
-    src="images/e65bec.png"
-    width="30"
-    height="25"
-  /><img
-    alt=""
-    src="images/ae7367.png"
-    width="30"
-    height="25"
-  /><img
-    alt=""
-    src="images/531385.png"
-    width="30"
-    height="25"
-  />
+  <p align="left">
+    <img
+      alt=""
+      src="images/19061d.png"
+      width="30"
+      height="25"
+    /><img
+      alt=""
+      src="images/5f08d8.png"
+      width="30"
+      height="25"
+    /><img
+      alt=""
+      src="images/e65bec.png"
+      width="30"
+      height="25"
+    /><img
+      alt=""
+      src="images/ae7367.png"
+      width="30"
+      height="25"
+    /><img
+      alt=""
+      src="images/531385.png"
+      width="30"
+      height="25"
+    />
+  </p>
 </p>
 
 <p align="center" width="100%">
