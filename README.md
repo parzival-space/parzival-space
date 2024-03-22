@@ -49,18 +49,20 @@ Discord: @parzival-space
   />
 </p>
 
+<br>
+
 <p align="center" width="100%">
   <img
     src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=parzival-space&theme=github_dark" 
-    width="30%"
+    width="32%"
   />
   <img
     src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=parzival-space&theme=github_dark&utcOffset=1" 
-    width="30%"
+    width="32%"
   />
   <img
     src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=parzival-space&theme=github_dark" 
-    width="30%"
+    width="32%"
   />
 </p>
 
