@@ -52,6 +52,9 @@
   </p>
 </p>
 
+<!-- GitHub is sometimes stupid... -->
+<br>
+
 <p align="center" width="100%">
   <img
     src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=parzival-space&theme=github_dark" 
