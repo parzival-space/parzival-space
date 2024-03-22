@@ -9,19 +9,18 @@
 ```csharp
 parzival-space@github.com
 -------------------------
-OS: Manjaro Linux x86_64
-Host: Infinite
-Shell: /bin/zsh
+OS: Debian GNU/Linux x86_64
+Host: github.com
+Shell: bash
 Pronouns: He/Him
 Location: Germany
-Languages: JavaScript, TypeScript,
-           HTML, CSS, C#, Java, C++, Rust
+Languages: Java, C#, C++, Rust,
+           JavaScript, TypeScript...
 Hobbies: Gaming, Generative AI, 3D Printing, Hardware Hacking
-Discord: Parzival#9999
+Discord: @parzival-space
 ```
 
-<p align="center">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<p align="left">
   <img
     alt=""
     src="images/19061d.png"
@@ -50,47 +49,35 @@ Discord: Parzival#9999
   />
 </p>
 
-</br>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
-     <img
-      src="https://github-readme-streak-stats.herokuapp.com?user=parzival-space&theme=dark&hide_border=true&background=00000000&count_private=true&ring=5f08d8&fire=5f08d8&currStreakLabel=5f08d8"
-      align="left"
-      width="47%"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=parzival-space&hide_title=true&hide_border=true&bg_color=00000000&text_color=FFFFFF&title_color=5f08d8"
-      align="right"
-      width="47%"
-    />
-  </a>
+<p align="center" width="100%">
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=parzival-space&theme=github_dark"
+    width="33%"
+  />
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=parzival-space&theme=github_dark&utcOffset=1"
+    width="33%"
+  />
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=parzival-space&theme=github_dark"
+    width="33%"
+  />
 </p>
 
-<!--
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=parzival-space&no-bg=true&no-frame=true&margin-h=15&color=02FAFC&theme=darkhub"
-      align="center"
-    />
-  </a>
+  OSes I use for deployment/development:
 </p>
--->
-
 <p align="center">
+  <a href="https://www.debian.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=ubuntu&logoColor=white">
+  </a>
   <a href="https://ubuntu.com/" target="_blank">
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
   </a>
-  <a href="https://manjaro.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white">
+  <a href="https://alpinelinux.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Alpine-0D597F?style=for-the-badge&logo=Manjaro&logoColor=white">
   </a>
   <a href="https://www.microsoft.com/de-de/windows" target="_blank">
     <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=for-the-badge">
-  </a>
-  <a href="https://www.android.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=for-the-badge">
   </a>
 </p>
