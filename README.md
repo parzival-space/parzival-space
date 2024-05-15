@@ -95,5 +95,5 @@
   Tools I use during development:
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,postman,ai,ps,clion,idea,phpstorm,rider">
+  <img src="https://skill-icons.malte-linke.workers.dev/icons?i=git,postman,ai,ps,clion,idea,phpstorm,rider">
 </p>
