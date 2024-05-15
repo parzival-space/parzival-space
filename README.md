@@ -90,3 +90,10 @@
     <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=for-the-badge">
   </a>
 </p>
+
+<p align="center">
+  Tools I use during development:
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,postman,ai,ps,clion,idea,phpstorm,rider">
+</p>
