@@ -16,13 +16,14 @@
   Shell: bash
   Pronouns: He/Him
   Location: Germany
-  Languages: Java, C#, C++, Rust,
+  Languages: Java, C#,
+             C++, Rust,
              JavaScript, TypeScript...
-  Hobbies: Gaming, Generative AI, 3D Printing, Hardware Hacking
-  Discord: @parzival-space
+  Hobbies: Gaming, Generative AI,
+           3D Printing, Hardware Hacking
   ```
 
-  <p align="left">
+  <!-- <p align="left">
     <img
       alt=""
       src="images/19061d.png"
@@ -50,7 +51,7 @@
       height="25"
     />
   </p>
-</p>
+</p> -->
 
 <!-- GitHub is sometimes stupid... -->
 <br>
@@ -96,4 +97,11 @@
 </p>
 <p align="center">
   <img src="https://skill-icons.malte-linke.workers.dev/icons?i=git,postman,ai,ps,clion,idea,phpstorm,rider">
+</p>
+
+<p align="center">
+  Some technologies I have already utilized in the past:
+</p>
+<p align="center">
+  <img src="https://skill-icons.malte-linke.workers.dev/icons?p=10&i=arduino,azure,bash,cloudflare,deno,discordjs,docker,electron,expressjs,figma,gitlab,github,githubactions,heroku,hibernate,maven,mysql,nginx,nodejs,pinia,rabbitmq,sqlite,tailwindcss,vuejs,vuetify,webpack,workers">
 </p>
