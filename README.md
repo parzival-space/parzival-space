@@ -4,9 +4,9 @@
   > neofetch
   ```
   
-  <a href="https://parzival.space">
+  <!--<a href="https://parzival.space">
     <img align="left" src="https://github.com/parzival-space.png" alt="Avatar" width="290"/>
-  </a>
+  </a>-->
   
   ```csharp
   parzival-space@github.com
@@ -16,11 +16,8 @@
   Shell: bash
   Pronouns: He/Him
   Location: Germany
-  Languages: Java, C#,
-             C++, Rust,
-             JavaScript, TypeScript...
-  Hobbies: Gaming, Generative AI,
-           3D Printing, Hardware Hacking
+  Languages: Java, C#, C++, Rust, JavaScript, TypeScript...
+  Hobbies: Gaming, Generative AI, 3D Printing, Hardware Hacking
   ```
 
   <!-- <p align="left">
@@ -59,10 +56,10 @@
 <br>
 
 <p align="center" width="100%">
-  <img
+  <!--<img
     src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=parzival-space&theme=github_dark" 
     width="32%"
-  />
+  />-->
   <img
     src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=parzival-space&theme=github_dark&utcOffset=1" 
     width="32%"
