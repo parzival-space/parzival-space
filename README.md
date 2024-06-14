@@ -53,10 +53,10 @@
 <!-- GitHub is sometimes stupid... -->
 
 <p align="center" width="100%">
-  <!--<img
+  <img
     src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=parzival-space&theme=github_dark" 
     width="32%"
-  />-->
+  />
   <img
     src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=parzival-space&theme=github_dark&utcOffset=1" 
     width="32%"
