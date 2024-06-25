@@ -54,7 +54,7 @@
 
 <p align="center" width="100%">
   <img
-    src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=parzival-space&theme=github_dark" 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=parzival-space&theme=github_dark" 
     width="32%"
   />
   <img
