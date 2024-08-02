@@ -77,7 +77,7 @@
   <a href="https://ubuntu.com/" target="_blank">
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
   </a>
-  <a href="[https://www.debian.org/](https://www.proxmox.com/)" target="_blank">
+  <a href="https://www.proxmox.com/" target="_blank">
     <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white">
   </a>
   <a href="https://alpinelinux.org/" target="_blank">
