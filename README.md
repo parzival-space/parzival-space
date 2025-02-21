@@ -71,6 +71,9 @@
   OSes I use for deployment/development:
 </p>
 <p align="center">
+  <a href="https://www.freebsd.org/" target="_blank">
+    <img src="https://img.shields.io/badge/FreeBSD-8e0000?style=for-the-badge&logo=freebsd&logoColor=white">
+  </a>
   <a href="https://www.debian.org/" target="_blank">
     <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=ubuntu&logoColor=white">
   </a>
