@@ -102,5 +102,5 @@
   Some technologies I have already utilized in the past:
 </p>
 <p align="center">
-  <img src="https://skill-icons.malte-linke.workers.dev/icons?p=10&i=arduino,azure,bash,cloudflare,deno,discordjs,docker,electron,expressjs,figma,gitlab,github,githubactions,heroku,hibernate,maven,mysql,nginx,nodejs,pinia,rabbitmq,sqlite,tailwindcss,vuejs,vuetify,webpack,workers">
+  <img src="https://skill-icons.malte-linke.workers.dev/icons?p=10&i=arduino,azure,bash,cloudflare,deno,discordjs,docker,electron,expressjs,figma,gitlab,github,githubactions,heroku,hibernate,k8s,maven,mysql,nginx,nodejs,pinia,rabbitmq,sqlite,tailwindcss,vuejs,vuetify,webpack,workers">
 </p>
