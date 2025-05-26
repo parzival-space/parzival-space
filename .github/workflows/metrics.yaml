@@ -14,7 +14,9 @@ jobs:
       matrix:
         include:
           - filename: github-metrics.*
+            size: large
           - filename: github-metrics-mobile.*
+            size: regular
     permissions:
       contents: write
     steps:
@@ -33,7 +35,7 @@ jobs:
           # Options
           template: classic
           base: header, activity, community, repositories, metadata
-          config_display: large
+          config_display: ${{ matrix.size }}
           config_timezone: Europe/Berlin
           filename: ${{ matrix.filename }}
           plugin_habits: yes
