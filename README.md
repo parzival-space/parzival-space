@@ -1,5 +1,4 @@
 <picture>
-    <source media="(min-width: 769px)" srcset="/github-metrics.svg">
-    <source media="(max-width: 768px)" srcset="/github-metrics-mobile.svg">
-    <img src="/github-metrics.svg" alt="Metrics">
+    <source media="(max-width: 768px) and (prefers-color-scheme: dark)" srcset="github-metrics-mobile.svg">
+    <img src="github-metrics.svg" alt="Metrics" width="100%">
 </picture>
